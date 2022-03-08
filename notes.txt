@@ -1,0 +1,2 @@
+Could add to this text file then automatically parse it and create a new instance.
+    Or type "take note" then have all of the information save here for me to look over later before I add it to the code.
